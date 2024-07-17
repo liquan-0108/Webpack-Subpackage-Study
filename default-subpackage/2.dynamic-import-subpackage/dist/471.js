@@ -1,0 +1,1 @@
+(self.webpackChunk_2_dynamic_import_subpackage=self.webpackChunk_2_dynamic_import_subpackage||[]).push([[471],{471:()=>{console.log("a.js")}}]);

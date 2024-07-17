@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_4_sync_code=self.webpackChunk_4_sync_code||[]).push([[471],{471:(s,c,e)=>{e.r(c),e(670),console.log("async2.js")}}]);

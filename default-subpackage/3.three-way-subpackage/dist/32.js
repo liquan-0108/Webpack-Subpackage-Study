@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_3_three_way=self.webpackChunk_3_three_way||[]).push([[32],{32:(e,s,_)=>{_.r(s),_(463).A.get("/user/12345")}}]);
